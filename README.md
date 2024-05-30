@@ -1,3 +1,6 @@
+[<img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">](https://github.com/nucceteere-xyz/Python-Cloudflare-DNS-Manager)
+[<img alt="git" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/git_vector.svg">](https://replit.com/@EngurRuzgar/Python-Cloudflare-DNS-Manager#main.py)
+
 ## What is this?
 This is a Python script for adding DNS records to your domain connected to CloudFlare.
 ### How does it work?
@@ -19,5 +22,3 @@ API_KEY=YOUR_CLOUDFLARE_API_KEY
 ```
 After you do these, make sure that your env variables are set up correctly by running `env_check.py`.
 
-[repl.it](https://replit.com/@EngurRuzgar/Python-Cloudflare-DNS-Manager#main.py)<br/>
-[GitHub](https://github.com/nucceteere-xyz/Python-Cloudflare-DNS-Manager)<br/>
