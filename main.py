@@ -1,5 +1,5 @@
 import requests
-from dotenv import load_dotenv, dotenv_values
+from dotenv import load_dotenv
 load_dotenv() 
 import os
 
