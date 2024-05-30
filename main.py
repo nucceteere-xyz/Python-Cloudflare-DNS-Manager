@@ -32,4 +32,4 @@ if record == "A":
     create_dns_record_typeA(headers)
     print(response.json())
 else:
-    print("Invalid input, only A type records are available for. now")
+    print("Invalid input, only A type records are available for now.")
