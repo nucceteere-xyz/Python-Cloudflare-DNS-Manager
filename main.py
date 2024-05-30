@@ -1,4 +1,6 @@
 import requests
+from dotenv import load_dotenv, dotenv_values
+load_dotenv() 
 import os
 
 api_key = os.environ['API_KEY']
