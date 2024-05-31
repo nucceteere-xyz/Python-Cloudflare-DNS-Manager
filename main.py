@@ -19,7 +19,7 @@ def create_dns_record_typeA(headers):
     name = input(f"Name that will point at {targetIP}\n")
     owner_email = input(f"Email information of the Registrar of {name}\n")
     data = {
-        "type": "A",
+        "type": f"{record}",
         "name": f"{name}",
         "content": f"{targetIP}",
         "ttl": 3600,
