@@ -7,7 +7,7 @@ This is a Python script for adding DNS records to your domain connected to Cloud
 It takes your inputs in accordance to the record you want to create, and then makes a request to CloudFlare API with your Zone ID and your CloudFlare API key.<br/>
 ## Usage
 > [!CAUTION]
-> We recomend using poetry, if you dont have poetry, run these commands in your shell
+> We recomend using [https://python-poetry.org/](Poetry), if you dont have poetry, run these commands in your shell
 > ```
 > pip install requests
 > pip install python-dotenv
